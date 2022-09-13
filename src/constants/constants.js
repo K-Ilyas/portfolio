@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'Mterials resources management',
+    title: 'Materials resources management',
     description: 'web admin application for materials resources management (toner, pc ,printer) ,the application allows the admin to keep track of materials and users requests for printers toners also the application give the ability to keep track of the most important changes in the database like updates and deletes',
     image: './images/ressource_managment.png',
     tags: ['php', 'MySql', 'Bootstrap'],
