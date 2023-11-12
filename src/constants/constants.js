@@ -65,7 +65,7 @@ export const projects = [
   {
     title: 'React Cart',
     description: "A React Cart Clock using React and javascript",
-    image: './images/quote_project.PNG',
+    image: './images/cart_project.PNG',
     tags: ['React', 'javascript', "react-icons"],
     source: 'https://codepen.io/ilyas99/full/bGaoQwP',
     visit: 'https://github.com/K-Ilyas/react-projects.git',
