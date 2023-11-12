@@ -34,7 +34,7 @@ const Hero = (props) => {
             <TypingAnimation />
           </SectionTitle>
           <SectionText >
-            Full stack web developer with the ability to  work in different platforms using varying technologies and frameworks (Web development, Mobile development and Database development).
+            Tech student at the University of corse, able to work in different platforms using varying technologies and frameworks (Web development, Mobile development and Database development).
           </SectionText>
           <Button onClick={() => window.location = 'https://www.linkedin.com/in/ilyas-kritet-697a571b3/'}>Learn More</Button>
         </LeftSection>

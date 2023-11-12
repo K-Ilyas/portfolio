@@ -35,6 +35,42 @@ export const projects = [
     visit: 'https://github.com/K-Ilyas/React-markdown-previewer.git',
     id: 3,
   },
+  {
+    title: 'Random quote machine',
+    description: "A random quote machine (HTML-SASS-JQUERY) ",
+    image: './images/quote_project.PNG',
+    tags: ['HTML', 'SASS', "JQUERY"],
+    source: 'https://codepen.io/ilyas99/full/jOYEyax',
+    visit: 'https://github.com/K-Ilyas/Random-quote-machine.git',
+    id: 4,
+  },
+  {
+    title: 'React drum machine',
+    description: "A React drum machine using React and javascript",
+    image: './images/drum_project.PNG',
+    tags: ['React', 'javascript', "Scss"],
+    source: 'https://codepen.io/ilyas99/full/XWVjvee',
+    visit: 'https://github.com/K-Ilyas/React-drum-machine.git',
+    id: 5,
+  },
+  {
+    title: 'React 25-5 Clock',
+    description: "A React 25-5 Clock using React and javascript",
+    image: './images/clock_project.PNG',
+    tags: ['React', 'javascript', "Scss"],
+    source: 'https://codepen.io/ilyas99/full/bGaoQwP',
+    visit: 'https://github.com/K-Ilyas/React-25-5-Clock.git',
+    id: 6,
+  },
+  {
+    title: 'React Cart',
+    description: "A React Cart Clock using React and javascript",
+    image: './images/quote_project.PNG',
+    tags: ['React', 'javascript', "react-icons"],
+    source: 'https://codepen.io/ilyas99/full/bGaoQwP',
+    visit: 'https://github.com/K-Ilyas/react-projects.git',
+    id: 7,
+  },
 ];
 
 export const TimeLineData = [
@@ -42,4 +78,5 @@ export const TimeLineData = [
   { year: 2020, text: 'Associate\'s degree in cs', },
   { year: 2021, text: 'Bachelor\'s degree in Computer Systems and Software Engineering', },
   { year: 2022, text: 'Full stack web developer freelancer', },
+  { year: 2023, text: 'Tech student at the University of corse', },
 ];
