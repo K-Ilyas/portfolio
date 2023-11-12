@@ -67,9 +67,27 @@ export const projects = [
     description: "A React Cart Clock using React and javascript",
     image: './images/cart_project.PNG',
     tags: ['React', 'javascript', "react-icons"],
-    source: 'https://codepen.io/ilyas99/full/bGaoQwP',
+    source: 'https://k-ilyas-cart.netlify.app/',
     visit: 'https://github.com/K-Ilyas/react-projects.git',
     id: 7,
+  },
+  {
+    title: 'React cocktails App ',
+    description: "A React cocktails App using React and javascript",
+    image: './images/cocktail_project.PNG',
+    tags: ['React', 'javascript', "react-dom"],
+    source: 'https://k-ilyas-cocktails.netlify.app/',
+    visit: 'https://github.com/K-Ilyas/react-projects.git',
+    id: 8,
+  },
+  {
+    title: 'React Menu App ',
+    description: "A React Menu App using React and javascript",
+    image: './images/menu_project.PNG',
+    tags: ['React', 'javascript', "react-dom"],
+    source: 'https://menu-kilyas.netlify.app/',
+    visit: 'https://github.com/K-Ilyas/react-projects.git',
+    id: 9,
   },
 ];
 

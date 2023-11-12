@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Tech graduate University of Technology Essaouira in 2021.<br />
+        Tech student at the University of corse.<br />
         Dedicated, motivated and qualified programmer with strong technical skills.<br />
         I’m able to work in different platforms using varying technologies and frameworks (Web development, Mobile development and Database development).<br />
         Contact me to find out more.
